@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ポニーテールとシュシュ",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-27T17:01:55.830819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポニーテールとシュシュ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_ポニーテールとシュシュ_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポニーテールとシュシュ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_ポニーテールとシュシュ_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポニーテールとシュシュ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_ポニーテールとシュシュ_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポニーテールとシュシュ - Ponytail to Chouchou",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_ポニーテールとシュシュ_-_Ponytail_to_Chouchou_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ポニーテールとシュシュ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/05_ポニーテールとシュシュ_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポニーテールとシュシュ",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_ポニーテールとシュシュ_AKB48.txt"
+    }
+  ]
+}
